@@ -10,7 +10,7 @@ import javafx.stage.*;
 public class Calculadora extends Application{
     double entrada;
     TextField pantalla;
-    double operacion = 0;
+    int operacion = 0;
     double primera = 0;
     double resultado;
     double segunda;
