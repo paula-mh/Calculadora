@@ -8,12 +8,12 @@ import javafx.stage.*;
 
 
 public class Calculadora extends Application{
-    double entrada;
+    int entrada;
     TextField pantalla;
     int operacion = 0;
-    double primera = 0;
-    double resultado;
-    double segunda;
+    int primera = 0;
+    int resultado;
+    int segunda;
 
     
     public static void main(String args[]) {
